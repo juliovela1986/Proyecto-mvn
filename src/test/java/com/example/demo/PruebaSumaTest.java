@@ -12,8 +12,7 @@ class PruebaSumaTest {
      * Aquí puedes definir los métodos de prueba utilizando Mockito
      * Por ejemplo, puedes simular el comportamiento del logger o de la suma
      * y verificar que se llamen con los parámetros correctos.
-     * <p>
-     * Ejemplo de un método de prueba (vacío por ahora):
+     *
      **/
     @Test
     void testSuma() {
