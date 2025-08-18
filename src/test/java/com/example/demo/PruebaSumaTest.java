@@ -13,6 +13,7 @@ class PruebaSumaTest {
      * Por ejemplo, puedes simular el comportamiento del logger o de la suma
      * y verificar que se llamen con los parámetros correctos.
      *
+     * Vemos que esto rula
      **/
     @Test
     void testSuma() {
